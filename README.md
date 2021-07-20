@@ -1,0 +1,2 @@
+# Abstraction
+ABC stores have three types of employees. Contract employee are paid basic salary plus a commission of 15% if they sold more than 1000 items otherwise 5%. Salaried employee earn a monthly salary according to the level/rank:   all employees with a rank c1 earns R15000, c2 earns 20000 and c3 earns 25000. Weekly empolyees earns a wage according to hours worked and hours rate. All employees share name, surname, employee number.    Abstraction process is used. Inheritance programming techniques are used.
